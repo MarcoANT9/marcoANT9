@@ -28,10 +28,10 @@ To do list 🌱:
     → Lead the MechanicANT team to make better games.
     → Try to take over the world.
 
-Thanks for taking a look at my profile; if you want to reach me, use one of these:
+Thanks for taking a look at my profile; if you want to reach me, you can use one of these:
 
     → e-mail: acalde27@hotmail.com
-    → Phone (+57) 313 741 9231
+    → Phone (+57): 313 741 9231
     → Linked-in: https://www.linkedin.com/in/marcoant91/
     → Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
 
