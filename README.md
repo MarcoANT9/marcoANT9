@@ -11,6 +11,7 @@ About Me 🤔:
     → Industrial Controls (Master) student at University of Pamplona, North of Santander (working on my Thesis).
     → Interested in VideoGame mechanics and math-based problems.
     → Head of the "MechanicANT" videogame development team.
+    → I love to teach.
 
 You can ask me about 💬:
 
