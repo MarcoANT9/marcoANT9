@@ -25,24 +25,26 @@ To do list 🌱:
 
     → Finish my Thesis and get that Industrial Controls Master degree.
     → Lead the MechanicANT team to make better and better videogames.
+    → Start to learn Unreal Engine (need a better PC).
     → Become better at Unity Engine.
     → Try to take over the world.
     
-Things I like:
+Things I like ✨:
 
-    → Organized lists.
     → I love to teach.
+    → Organized lists.
+    → Automatic machines.
     → Horror movies and books.
     → Solving problems (also puzzles).
     → Work with my hands (as in cooking or crafting).
     → Study and understand complex systems (specially those that involve math).
     
 
-Thanks for taking a look at my profile; if you want to reach me, you can use one of these:
+Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
 
     → e-mail: acalde27@hotmail.com
     → Phone (+57): 313 741 9231
-    → Linked-in: https://www.linkedin.com/in/marcoant91/
+    → LinkedIn: https://www.linkedin.com/in/marcoant91/
     → Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
 
 
