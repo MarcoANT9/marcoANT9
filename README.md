@@ -9,25 +9,34 @@ About Me 🤔:
     → Industrial Engineer from Javeriana Cali .
     → Software Developer from Holberton School Cali.
     → Industrial Controls (Master) student at University of Pamplona, North of Santander (working on my Thesis).
-    → Interested in VideoGame mechanics and math-based problems.
+    → Interested in videogame mechanics and math-based solutions.
     → Head of the "MechanicANT" videogame development team.
-    → I love to teach.
 
 You can ask me about 💬:
 
     → Backend issues and solutions.
-    → Calculus and math-based solutions.
     → Process analysis and improvement.
-    → Automatic process control (although I'm still learning about this one).
     → General problem-solving recommendations.
+    → Calculus and math-based implementations.
     → Anything that requires high attention to detail.
+    → Automatic process control (although I'm still learning about this one).
 
 To do list 🌱:
 
+    → Finish my Thesis and get that Industrial Controls Master degree.
+    → Lead the MechanicANT team to make better and better videogames.
     → Become better at Unity Engine.
-    → Finish my Thesis and become an Industrial Controls Master.
-    → Lead the MechanicANT team to make better games.
     → Try to take over the world.
+    
+Things I like:
+
+    → Organized lists.
+    → I love to teach.
+    → Horror movies and books.
+    → Solving problems (also puzzles).
+    → Work with my hands (as in cooking or crafting).
+    → Study and understand complex systems (specially those that involve math).
+    
 
 Thanks for taking a look at my profile; if you want to reach me, you can use one of these:
 
