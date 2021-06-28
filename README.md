@@ -27,7 +27,7 @@ To do list 🌱:
     → Lead the MechanicANT team to make better and better videogames.
     → Start to learn Unreal Engine (need a better PC).
     → Become better at Unity Engine.
-    → [Try to take over the world.](https://www.youtube.com/watch?v=2B3slX6-_20)
+    → (Try to take over the world.)[https://www.youtube.com/watch?v=2B3slX6-_20]
     
 Things I like ✨:
 
