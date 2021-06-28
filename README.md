@@ -4,43 +4,43 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 
 At the moment I'm currently learning the basics of Unity Engine with the purpose of making videogames.
 
-About Me 🤔:
+### About Me 🤔:
 
-    → Industrial Engineer from Javeriana Cali.
-    → Software Developer from Holberton School Cali.
-    → Master in Industrial Controls student at University of Pamplona, North of Santander (working on my Thesis).
-    → Interested in videogame mechanics and math-based solutions.
-    → Head of the "MechanicANT" videogame development team.
+* Industrial Engineer from Javeriana Cali.
+* Software Developer from Holberton School Cali.
+* Master in Industrial Controls student at University of Pamplona, North of Santander (working on my Thesis).
+* Interested in videogame mechanics and math-based solutions.
+* Head of the "MechanicANT" videogame development team.
 
-You can ask me about 💬:
+### You can ask me about 💬:
 
-    → Backend issues and solutions.
-    → Process analysis and improvement.
-    → General problem-solving recommendations.
-    → Calculus and math-based implementations.
-    → Anything that requires high attention to detail.
-    → Automatic process control (although I'm still learning about this one).
+* Backend issues and solutions.
+* Process analysis and improvement.
+* General problem-solving recommendations.
+* Calculus and math-based implementations.
+* Anything that requires high attention to detail.
+* Automatic process control (although I'm still learning about this one).
 
-To do list 🌱:
+### To do list 🌱:
 
-    → Finish my Thesis and get that Industrial Controls Master's degree.
-    → Lead the MechanicANT team to make better and better videogames.
-    → Start to learn Unreal Engine (need a better PC).
-    → Become better at Unity Engine.
-    → [Try to take over the world.](https://www.youtube.com/watch?v=2B3slX6-_20)
+* Finish my Thesis and get that Industrial Controls Master's degree.
+* Lead the MechanicANT team to make better and better videogames.
+* Start to learn Unreal Engine (need a better PC).
+* Become better at Unity Engine.
+* [Try to take over the world.](https://www.youtube.com/watch?v=2B3slX6-_20)
     
-Things I like ✨:
+### Things I like ✨:
 
-    → I love to teach.
-    → Organized lists.
-    → Automatic machines.
-    → Horror movies and books.
-    → Solving problems (also puzzles).
-    → Work with my hands (as in cooking or crafting).
-    → Study and understand complex systems (specially those that involve math).
+* I love to teach.
+* Organized lists.
+* Automatic machines.
+* Horror movies and books.
+* Solving problems (also puzzles).
+* Work with my hands (as in cooking or crafting).
+* Study and understand complex systems (specially those that involve math).
     
 
-## Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
+#### Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
 
 * e-mail: acalde27@hotmail.com
 * Phone (+57): 313 741 9231
