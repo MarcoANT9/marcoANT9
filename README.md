@@ -40,7 +40,7 @@ Things I like ✨:
     → Study and understand complex systems (specially those that involve math).
     
 
-Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
+## Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
 
 * e-mail: acalde27@hotmail.com
 * Phone (+57): 313 741 9231
