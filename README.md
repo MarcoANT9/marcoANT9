@@ -47,7 +47,7 @@ Thanks for taking a look at my profile; if you want to reach me, you can use one
     → LinkedIn: [marcoant91](https://www.linkedin.com/in/marcoant91/)
     → Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
 
-LinkedIn: [marcoant91](https://www.linkedin.com/in/marcoant91/)
+    LinkedIn: [marcoant91](https://www.linkedin.com/in/marcoant91/)
 
 
 <!--
