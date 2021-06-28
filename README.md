@@ -27,7 +27,7 @@ To do list 🌱:
     → Lead the MechanicANT team to make better and better videogames.
     → Start to learn Unreal Engine (need a better PC).
     → Become better at Unity Engine.
-    → Try to take over the world.
+    → [Try to take over the world.](https://www.youtube.com/watch?v=2B3slX6-_20)
     
 Things I like ✨:
 
@@ -44,7 +44,7 @@ Thanks for taking a look at my profile; if you want to reach me, you can use one
 
     → e-mail: acalde27@hotmail.com
     → Phone (+57): 313 741 9231
-    → LinkedIn: https://www.linkedin.com/in/marcoant91/
+    LinkedIn: [marcoant91](https://www.linkedin.com/in/marcoant91/)
     → Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
 
 
