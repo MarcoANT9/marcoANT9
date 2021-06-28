@@ -46,6 +46,7 @@ Thanks for taking a look at my profile; if you want to reach me, you can use one
     → Phone (+57): 313 741 9231
     → LinkedIn: https://www.linkedin.com/in/marcoant91/
     → Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
+    → [Kenney's Nature Pack Extended](https://kenney.nl/assets/nature-pack-extended)
 
 
 <!--
