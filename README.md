@@ -7,7 +7,7 @@ At the moment I'm currently learning the basics of Unity Engine with the purpose
 ### About Me 🤔:
 
 * Industrial Engineer from Javeriana Cali.
-* Software Developer from Holberton School Cali.
+* Software Engineer from Holberton School Cali.
 * Master in Industrial Controls student at University of Pamplona, North of Santander (working on my Thesis).
 * Interested in videogame mechanics and math-based solutions.
 * Head of the "MechanicANT" videogame development team.
