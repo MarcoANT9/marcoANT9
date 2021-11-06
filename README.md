@@ -49,7 +49,7 @@ At the moment I'm currently learning the basics of Unity Engine with the purpose
 
 <table align="center">
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=MarcoANT9b&hide=issues&show_icons=true&theme=algolia" alt="Stats table 1"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=MarcoANT9&hide=issues&show_icons=true&theme=algolia" alt="Stats table 1"></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoANT9&layout=compact&theme=algolia" alt="Stats table 2"></td>
     </tr>
 </table>
