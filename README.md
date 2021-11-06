@@ -15,8 +15,8 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![Unity](https://img.shields.io/badge/-Unity-%23Fff?style=for-the-badge&logo=unity&logoColor=%23000)
 ![C#](https://img.shields.io/badge/-CSharp-%23A179DC?style=for-the-badge&logo=csharp&logoColor=%23280168)
-![Excel](https://img.shields.io/badge/-Excel-%23015C01?style=for-the-badge&logo=microsoftexcel&logoColor=%23fff)
-![Visio](https://img.shields.io/badge/-Visio-%230101FF?style=for-the-badge&logo=microsoftvisio&logoColor=%23fff)
+![Excel](https://img.shields.io/badge/-Microsoft_Excel-%23015C01?style=for-the-badge&logo=microsoftexcel&logoColor=%23fff)
+![Visio](https://img.shields.io/badge/-Microsoft_Visio-%230101FF?style=for-the-badge&logo=microsoftvisio&logoColor=%23fff)
 
 </h4>
 
