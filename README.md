@@ -5,7 +5,7 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 * 💻 Currently working on: Writing my MsC. thesis.
 * 🎓 Just finished: Holberton School AR/VR Advanced program.
 * 💬 Motto: Keep Calm & Git Gud. 
-* ⚡ Fun fact: 
+* ⚡ Fun fact: I like ants 🐜.
 
 <h3 align="center">🚀 Technologies & Tools</h3>
 <h4 align="Center">
