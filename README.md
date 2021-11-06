@@ -73,7 +73,7 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 </table>
 
 ### Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
-<br>
+
 <h4 align="Center">
 
 [<img src="https://img.shields.io/badge/Marco_Antonio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcoant91/)
