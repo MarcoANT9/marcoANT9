@@ -38,12 +38,8 @@ At the moment I'm currently learning the basics of Unity Engine with the purpose
 * Solving problems (also puzzles).
 * Work with my hands (as in cooking or crafting).
 * Study and understand complex systems (specially those that involve math).
-    
-
-### Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
 
 * e-mail: acalde27@hotmail.com
-* Phone (+57): 313 741 9231
 * LinkedIn: [marcoant91](https://www.linkedin.com/in/marcoant91/)
 * Anywhere you see a "MarcoAnt" with a combination of 9, 27 or 91 is probably me.
 
@@ -54,6 +50,12 @@ At the moment I'm currently learning the basics of Unity Engine with the purpose
     </tr>
 </table>
 
+### Thanks for taking a look at my profile; if you want to reach me, you can use one of these 📫:
+<h4>
+[<img src="https://img.shields.io/badge/MarcoAnt-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marcoant91/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acalde27@gmail.com)](mailto:acalde27@gmail.com)
+</h4>
+ 
 <!--
 **MarcoANT9/marcoANT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
