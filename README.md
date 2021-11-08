@@ -43,6 +43,7 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 * Automatic process control (although I'm still learning about this one).</td>
 </details>
 
+
 <details>
 <summary><b> To do list</b>🌱:</summary>
 
