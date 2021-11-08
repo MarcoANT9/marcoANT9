@@ -23,9 +23,9 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 <details>
 <summary><b> About Me</b> 🤔:</summary>
 
-* Industrial Engineer from [Javeriana Cali](https://www.javerianacali.edu.co){:target="_blank" rel="noopener"}.
-* Software Engineer from [Holberton School Cali](https://www.holbertoncolombia.com){:target="_blank" rel="noopener"}.
-* MsC. student in [Industrial Controls](https://www.unipamplona.edu.co/maestriacontrolesindustriales/){:target="_blank" rel="noopener"} at [University of Pamplona](https://www.unipamplona.edu.co){:target="_blank" rel="noopener"}, North of Santander (writing my Thesis).
+* Industrial Engineer from [Javeriana Cali](https://www.javerianacali.edu.co).
+* Software Engineer from [Holberton School Cali](https://www.holbertoncolombia.com).
+* MsC. student in [Industrial Controls](https://www.unipamplona.edu.co/maestriacontrolesindustriales/) at [University of Pamplona](https://www.unipamplona.edu.co), North of Santander (writing my Thesis).
 * Interested in videogame mechanics and math-based solutions.
 * Head of the "MechanicANT" videogame development team.
 * I have a lot of non-formal self-taugh knowledge.
