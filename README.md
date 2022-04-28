@@ -1,9 +1,9 @@
 ﻿# Hello there 👋
 
-My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
+My Name is Marco Antonio, I'm a MsC on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
-* 💻 Currently working on: Writing my MsC. thesis.
-* 🎓 Just finished: Holberton School AR/VR Advanced program.
+* 💻 Currently working on: Learning Power BI & getting better in Unity.
+* 🎓 Just finished: MsC on Industrial Controls (waiting for the degree ceremony).
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
 
@@ -23,11 +23,11 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 <details>
 <summary><b> About Me</b> 🤔:</summary>
 
+* Master in Science on Industrial Controls from [Unipamplona](https://www.unipamplona.edu.co/maestriacontrolesindustriales/).
 * Industrial Engineer from [Javeriana Cali](https://www.javerianacali.edu.co).
 * Software Engineer from [Holberton School Cali](https://www.holbertoncolombia.com).
-* MsC. student in [Industrial Controls](https://www.unipamplona.edu.co/maestriacontrolesindustriales/) at [University of Pamplona](https://www.unipamplona.edu.co), North of Santander (writing my Thesis).
+* Insterested in process automation and instrumentation.
 * Interested in videogame mechanics and math-based solutions.
-* Head of the "MechanicANT" videogame development team.
 * I have a lot of non-formal self-taugh knowledge.
 
 </details>
@@ -40,15 +40,14 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 * General problem-solving recommendations.
 * Calculus and math-based implementations.
 * Anything that requires high attention to detail.
-* Automatic process control (although I'm still learning about this one).</td>
+* Automatic process control.</td>
 </details>
 
 
 <details>
 <summary><b> To do list</b>🌱:</summary>
 
-* Finish my Thesis and get that Industrial Controls Master's degree.
-* Lead the MechanicANT team to make better and better videogames.
+* Master Power BI.
 * Start to learn Unreal Engine (need a better PC).
 * Become better at Unity Engine.
 * <a href="https://www.youtube.com/watch?v=2B3slX6-_20" target="_blank">Try to take over the world</a>
@@ -63,7 +62,7 @@ My Name is Marco Antonio, I'm an Industrial Engineer and Software Developer from
 * Horror movies and books.
 * Solving problems (also puzzles).
 * Work with my hands (as in cooking or crafting).
-* Study and understand complex systems (specially those involving math.
+* Study and understand complex systems (specially those involving math).
 </details>
 
 <table align="center">
