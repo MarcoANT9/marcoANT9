@@ -1,9 +1,9 @@
 ﻿# Hello there 👋
 
-My Name is Marco Antonio, I'm a MsC on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
+My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
 * 💻 Currently working on: Learning Power BI & getting better in Unity.
-* 🎓 Just finished: MsC on Industrial Controls (waiting for the degree ceremony).
+* 🎓 Just finished: MSc. on Industrial Controls (waiting for the degree ceremony).
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
 
@@ -61,7 +61,7 @@ My Name is Marco Antonio, I'm a MsC on Industrial Controls, also an Industrial E
 * Automatic machines.
 * Horror movies and books.
 * Solving problems (also puzzles).
-* Work with my hands (as in cooking or crafting).
+* Working with my hands (be it cooking or crafting).
 * Study and understand complex systems (specially those involving math).
 </details>
 
