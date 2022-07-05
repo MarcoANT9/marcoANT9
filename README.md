@@ -2,7 +2,7 @@
 
 My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
-* 💻 Currently working on: Preparing to star a job as a University Teacher at Javeriana Cali.
+* 💻 Currently working on: Preparing to start a job as a University Teacher at Javeriana Cali.
 * 🎓 Just finished: MSc. on Industrial Controls.
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
