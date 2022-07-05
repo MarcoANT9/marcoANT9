@@ -2,8 +2,8 @@
 
 My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
-* 💻 Currently working on: Learning Power BI & getting better in Unity.
-* 🎓 Just finished: MSc. on Industrial Controls (waiting for the degree ceremony).
+* 💻 Currently working on: Preparing to star a job as a University Teacher at Javeriana Cali.
+* 🎓 Just finished: MSc. on Industrial Controls.
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
 
@@ -47,7 +47,7 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 <details>
 <summary><b> To do list</b>🌱:</summary>
 
-* Master Power BI.
+* Learn BioPython.
 * Start to learn Unreal Engine (need a better PC).
 * Become better at Unity Engine.
 * <a href="https://www.youtube.com/watch?v=2B3slX6-_20" target="_blank">Try to take over the world</a>
@@ -80,6 +80,7 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcoan7calderon@gmail.com)](mailto:marcoan7calderon@gmail.com)
 
 </h4>
+
 <!--
 **MarcoANT9/marcoANT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
