@@ -2,7 +2,7 @@
 
 My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
-* 💻 Currently working on: Preparing to start a job as a University Teacher at Javeriana Cali.
+* 💻 Currently working on: Teaching Python at Javeriana Cali.
 * 🎓 Just finished: MSc. on Industrial Controls.
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
@@ -80,6 +80,8 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcoan7calderon@gmail.com)](mailto:marcoan7calderon@gmail.com)
 
 </h4>
+
+PD: If you are one of my students, remember we have Quiz this next monday!
 
 <!--
 **MarcoANT9/marcoANT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
