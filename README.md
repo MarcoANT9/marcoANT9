@@ -29,7 +29,7 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 * Head of The MechanicAnt development team.
 * Insterested in process automation and instrumentation.
 * Interested in videogame mechanics and math-based solutions.
-* I have a lot of non-formal self-taugh knowledge.
+* I have a lot of self-taugh knowledge.
 
 </details>
 
