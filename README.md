@@ -1,9 +1,9 @@
-﻿# Hello there 👋
+﻿# Hello There 👋
 
 My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial Engineer and Software Developer from Cali, [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). 
 
 * 💻 Currently working on: Teaching Python at Javeriana Cali.
-* 🎓 Just finished: MSc. on Industrial Controls.
+* 🎓 Finished: MSc. on Industrial Controls.
 * 💬 Motto: Keep Calm & Git Gud. 
 * ⚡ Fun fact: I like ants 🐜.
 
@@ -26,6 +26,7 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 * Master in Science on Industrial Controls from [Unipamplona](https://www.unipamplona.edu.co/maestriacontrolesindustriales/).
 * Industrial Engineer from [Javeriana Cali](https://www.javerianacali.edu.co).
 * Software Engineer from [Holberton School Cali](https://www.holbertoncolombia.com).
+* Head of The MechanicAnt development team.
 * Insterested in process automation and instrumentation.
 * Interested in videogame mechanics and math-based solutions.
 * I have a lot of non-formal self-taugh knowledge.
@@ -47,8 +48,8 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 <details>
 <summary><b> To do list</b>🌱:</summary>
 
-* Learn BioPython.
-* Start to learn Unreal Engine (need a better PC).
+* Start to learn Unreal Engine (Got better PC).
+* Practice Piano.
 * Become better at Unity Engine.
 * <a href="https://www.youtube.com/watch?v=2B3slX6-_20" target="_blank">Try to take over the world</a>
 </details>
@@ -81,7 +82,7 @@ My Name is Marco Antonio, I'm a MSc. on Industrial Controls, also an Industrial 
 
 </h4>
 
-PD: If you are one of my students, remember we have Quiz this next monday!
+PD: If you are one of my students, remember to pay attention in class.
 
 <!--
 **MarcoANT9/marcoANT9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
